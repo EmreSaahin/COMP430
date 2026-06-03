@@ -13,7 +13,7 @@ The codebase is designed with a modular architecture for sustainability and test
 ## Sample Enhancement Result
 An example output demonstrating the effectiveness of the enhancement pipeline (CLAHE and unsharp masking):
 
-![Enhanced Image](sample_dataset/00494.png)
+![Enhanced Image](sample_dataset/12059.png)
 
 ## Installation and Usage
 After installing the required dependencies, you can execute the main script:
